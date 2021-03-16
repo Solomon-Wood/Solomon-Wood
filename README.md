@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Solomon Wood, a C and C++ developer. And possibly Swift too! You can see for yourself:
+
+![GitHub Stats!](https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonWood&layout=compact&bg_color=30,b3ffe4,b3efff)
 
 <!--
 **Solomon-Wood/Solomon-Wood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
