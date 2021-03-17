@@ -3,9 +3,7 @@ I'm Solomon Wood, a C and C++ developer. And possibly Swift too! You can see for
 
 ![GitHub Stats!](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon-Wood&layout=compact&bg_color=30,b3ffe4,b3efff)
 
-Right now I am working on a set of C libraries/frameworks which are similar to those included by default in Objective-C.
-I am not very far yet, but again you can see for yourself:
-![My Project](https://github.com/Solomon-Wood/C-Frameworks)
+Currently I'm working on a GUI for Barrykn's Big Sur Micropatcher. It is not online yet.
 
 <!--
 **Solomon-Wood/Solomon-Wood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
